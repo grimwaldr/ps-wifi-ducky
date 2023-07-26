@@ -23,7 +23,7 @@ This tool tests for vulnerabilities which may enable further social engineering 
 # Removal and Cleanup 
 After authorized use, it's crucial to remove the tool and any residual traces of the scripts from the target machine promptly, and to erase the output file. It is also good practice to immediately change any passwords uncovered by the penetration test.
 
-#Legal Implications 
+# Legal Implications 
 Using this tool inappropriately may violate local laws and regulations, resulting in severe legal repercussions. Users are responsible for understanding and complying with the laws governing the use of penetration testing tools. The software authors expressly forbid the use of this software without authorization by the owners of the tested devices.
 
 # Reporting Vulnerabilities 
