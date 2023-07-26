@@ -1,5 +1,5 @@
 # ps-wifi-ducky
-PowerShell executing Rubber Ducky USB Drive for acquiring network credentials
+Because it's 2023 and you should be using PowerShell, not CMD for this.
 
 # Disclaimer 
 This project contains scripts that are strictly intended for authorized use in legal and controlled environments, such as contracted penetration testing or on your own devices. Unauthorized use of these scripts on non-consenting parties or without proper authorization is strictly prohibited and illegal. Please use this tool responsibly and ethically.
